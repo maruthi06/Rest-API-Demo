@@ -1,0 +1,19 @@
+{
+  "name": "rest-api-demo",
+  "version": "1.0.0",
+  "description": "Rest API Demo with React and Node JS with Express framework",
+  "main": "index.js",
+  "scripts": {
+    "client": "cd ./api-demo-client && npm start",
+    "server": "cd ./api-demo-server && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.JS",
+    "Express.JS",
+    "REST API",
+    "React"
+  ],
+  "author": "Maruthi K M",
+  "license": "ISC"
+}
